@@ -1,6 +1,6 @@
 Currently Reading: Priory Of The Orange Tree 
 
-Currently Playing: Dragon Age 2
+Currently Playing: Dragon Age: The Veilguard
 
 <!---
 NotTifako/NotTifako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
